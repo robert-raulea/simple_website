@@ -173,22 +173,6 @@ img {
   align-items: center;
 }
 
-#bmw-info .info-container span {
-  font-weight: bold;
-  font-style: italic;
-}
-
-#bmw-info .info-container p:nth-of-type(1) {
-  color: var(--secondary-color);
-  font-style: oblique;
-}
-
-#bmw-info .info-container p:nth-of-type(2) {
-  color: var(--primary-color);
-  font-weight: bold;
-  font-style: oblique 40deg;
-}
-
 /* About page */
 #about-header {
   display: flex;
